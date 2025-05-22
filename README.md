@@ -21,4 +21,7 @@ Atualmente sigo me desenvolvendo e melhorando minhas habilidades com diversos pr
   ![negrelicelso's Streak](https://github-readme-streak-stats.herokuapp.com/?user=negrelicelso&theme=monokai&hide_border=false)
 
   ![negrelicelso's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=negrelicelso&theme=monokai&show_icons=true&hide_border=false&layout=compact)
+
+  [![Jolteon](https://img.pokemondb.net/sprites/black-white/anim/normal/jolteon.gif)](https://pokemondb.net/pokedex/jolteon)
+  
 </div>
