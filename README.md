@@ -1,6 +1,6 @@
 <h3 align="center">ℹ️ <b>About Me</b> ℹ️</h3>
 
-Sou apenas um desenvolvedor, formado em **Gestão da Tecnologia da Informação.**
+<p align="center">Sou apenas um desenvolvedor, formado em <b>Gestão da Tecnologia da Informação.</b></p>
 
 Desde pequeno já era apaixonado por técnologia principalmente vindas de jogos online. Com o passar do tempo, comecei a descobrir que tinha muito mais do que apenas mostrava na tela.
 
