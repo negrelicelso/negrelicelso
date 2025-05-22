@@ -14,4 +14,7 @@ Atualmente sigo me desenvolvendo e melhorando minhas habilidades com diversos pr
 
 <h3 align="center">📈 <b>Stats</b> 📈</h3>
 
-![negrelicelso's Stats](https://github-readme-stats.vercel.app/api?username=negrelicelso&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+<div align="center">
+  ![negrelicelso's Stats](https://github-readme-stats.vercel.app/api?username=negrelicelso&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+
+</div>
